@@ -1,5 +1,5 @@
 # Data-Analysis-Visulization
 
-Dashbord Of Udemy Courses
+# Dashboard Of Udemy Courses :
 
-Problem Statement : Create dashboard to make sure that stackholders can understand all data on dashboard to emphasize on years, months & quartters.
+Problem Statement: Create a dashboard to make sure that stakeholders can understand all data on the dashboard based on years, months & quarters.
